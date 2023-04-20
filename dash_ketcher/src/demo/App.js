@@ -1,14 +1,15 @@
 /* eslint no-magic-numbers: 0 */
 import React, {Component} from 'react';
 
-import { DashKetcher } from '../lib';
+import { DashKetcher } from '../lib/';
 
 class App extends Component {
 
     constructor() {
         super();
         this.state = {
-            value: ''
+            value: '',
+            label: 'my-label'
         };
         this.setProps = this.setProps.bind(this);
     }

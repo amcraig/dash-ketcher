@@ -15,20 +15,6 @@ function __init__()
             version = version,
             [
                 DashBase.Resource(
-    relative_package_path = "async-DashKetcher.js",
-    external_url = "https://unpkg.com/dash_ketcher@0.0.1/dash_ketcher/async-DashKetcher.js",
-    dynamic = nothing,
-    async = :true,
-    type = :js
-),
-DashBase.Resource(
-    relative_package_path = "async-DashKetcher.js.map",
-    external_url = "https://unpkg.com/dash_ketcher@0.0.1/dash_ketcher/async-DashKetcher.js.map",
-    dynamic = true,
-    async = nothing,
-    type = :js
-),
-DashBase.Resource(
     relative_package_path = "dash_ketcher.min.js",
     external_url = "https://unpkg.com/dash_ketcher@0.0.1/dash_ketcher/dash_ketcher.min.js",
     dynamic = nothing,

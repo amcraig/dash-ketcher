@@ -1,6 +1,6 @@
-# Dash Ketcher
+# dash_ketcher
 
-Dash Ketcher is a Dash component library.
+dash_ketcher is a Dash component library.
 
 Get started with:
 1. Install Dash and its dependencies: https://dash.plotly.com/installation
