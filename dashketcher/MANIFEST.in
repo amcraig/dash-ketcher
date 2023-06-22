@@ -1,0 +1,11 @@
+include dashketcher/dashketcher.min.js
+include dashketcher/dashketcher.min.js.map
+include dashketcher/async-*.js
+include dashketcher/async-*.js.map
+include dashketcher/*-shared.js
+include dashketcher/*-shared.js.map
+include dashketcher/metadata.json
+include dashketcher/package-info.json
+include README.md
+include LICENSE
+include package.json
