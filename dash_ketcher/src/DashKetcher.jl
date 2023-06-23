@@ -16,14 +16,14 @@ function __init__()
             [
                 DashBase.Resource(
     relative_package_path = "dash_ketcher.min.js",
-    external_url = "https://unpkg.com/dash_ketcher@0.0.1/dash_ketcher/dash_ketcher.min.js",
+    external_url = nothing,
     dynamic = nothing,
     async = nothing,
     type = :js
 ),
 DashBase.Resource(
     relative_package_path = "dash_ketcher.min.js.map",
-    external_url = "https://unpkg.com/dash_ketcher@0.0.1/dash_ketcher/dash_ketcher.min.js.map",
+    external_url = nothing,
     dynamic = true,
     async = nothing,
     type = :js

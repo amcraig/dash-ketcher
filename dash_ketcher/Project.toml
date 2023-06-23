@@ -1,7 +1,7 @@
 
 name = "DashKetcher"
 uuid = "1b08a953-4be3-4667-9a23-9a30d43d2ae6"
-authors = ["Alex Craig <alexandercraig@protonmail.com>"]
+authors = ["Alex Craig <amcraigpnw@gmail.com>"]
 version = "0.0.1"
 
 [deps]
