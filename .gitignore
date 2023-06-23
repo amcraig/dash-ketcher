@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/ # need to comment this out to track the actual src/lib dir
 lib64/
 parts/
 sdist/
